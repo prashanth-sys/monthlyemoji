@@ -1,0 +1,85 @@
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/monthly-emojis/monthly-emojis-bg.png');
+  background-size: cover;
+  height: 150vh;
+}
+.heading {
+  font-family: 'Roboto';
+  color: #ffbe38;
+  text-align: center;
+  padding-top: 5%;
+}
+.show-container {
+  display: flex;
+  justify-content: center;
+}
+.month-container {
+  font-size: 10px;
+  background-image: linear-gradient(to right, #42404d, #343243);
+  width: 600px;
+  margin-left: 19px;
+  height: 600px;
+  text-align: center;
+  border-radius: 9px;
+  border: 3px solid #4e5d72;
+  margin-top: 5%;
+}
+.month-heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin-top: 25px;
+}
+.month-list {
+  display: flex;
+  justify-content: center;
+}
+.list {
+  color: #ffffff;
+  list-style-type: none;
+  margin: 5px;
+  font-size: 17px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin-right: 32px;
+  margin-top: 29px;
+}
+.date-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.button {
+  background-color: #4e5d72;
+  color: white;
+  height: 37px;
+  width: 37px;
+  border-width: 0px;
+  border-radius: 5px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.emoji-container {
+  font-size: 10px;
+  background-image: linear-gradient(to right, #42404d, #343243);
+  width: 600px;
+  margin-left: 19px;
+  height: 300px;
+  text-align: center;
+  border-radius: 9px;
+  border: 3px solid #4e5d72;
+  margin-top: 5%;
+}
+.emoji-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button-image {
+  background-color: transparent;
+  border-width: 0px;
+}
+.emoji {
+  width: 32px;
+}
+.emoji-bubble {
+  width: 39px;
+}

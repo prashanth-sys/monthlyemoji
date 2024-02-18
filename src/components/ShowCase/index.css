@@ -1,0 +1,15 @@
+.select {
+  background-color: #cbd5e1;
+  border: 2px solid #4e5d72;
+  height: 45px;
+  width: 200px;
+  border-width: 0px;
+  margin-top: 15%;
+  margin: 15px;
+}
+.select-day {
+  background-color: #cbd5e1;
+  height: 45px;
+  width: 100px;
+  border-width: 0px;
+}
